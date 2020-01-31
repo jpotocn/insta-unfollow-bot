@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="49fe3a24-2db7-4329-905e-c1144bd9d912" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WZNTNT9e6biZ52aOOhrtsMObRX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/pom.xml" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jpotocn\IdeaProjects\InstaUnfollower\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="InstaUnfollower" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="49fe3a24-2db7-4329-905e-c1144bd9d912" name="Default Changelist" comment="" />
+      <created>1579353164377</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579353164377</updated>
+      <workItem from="1579353170341" duration="1178000" />
+      <workItem from="1579362162577" duration="1008000" />
+      <workItem from="1579984023289" duration="1421000" />
+      <workItem from="1580081464218" duration="1000000" />
+      <workItem from="1580143626085" duration="1052000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="606" y="199" key="#Project_Structure" timestamp="1579353249420">
+      <screen x="109" y="0" width="1811" height="1080" />
+    </state>
+    <state x="606" y="199" key="#Project_Structure/-1811.0.1811.1080/109.0.1811.1080@109.0.1811.1080" timestamp="1579353249420" />
+    <state x="794" y="296" key="FileChooserDialogImpl" timestamp="1580144078941">
+      <screen x="109" y="0" width="1811" height="1080" />
+    </state>
+    <state x="794" y="296" key="FileChooserDialogImpl/-1811.0.1811.1080/109.0.1811.1080@109.0.1811.1080" timestamp="1580144078941" />
+    <state x="515" y="183" key="SettingsEditor" timestamp="1580144023032">
+      <screen x="109" y="0" width="1811" height="1080" />
+    </state>
+    <state x="515" y="183" key="SettingsEditor/-1811.0.1811.1080/109.0.1811.1080@109.0.1811.1080" timestamp="1580144023032" />
+    <state x="715" y="365" key="com.intellij.ide.util.TipDialog" timestamp="1580143685487">
+      <screen x="109" y="0" width="1811" height="1080" />
+    </state>
+    <state x="715" y="365" key="com.intellij.ide.util.TipDialog/-1811.0.1811.1080/109.0.1811.1080@109.0.1811.1080" timestamp="1580143685487" />
+  </component>
+</project>
