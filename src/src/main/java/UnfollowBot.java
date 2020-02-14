@@ -11,7 +11,7 @@ public class UnfollowBot extends SeleniumTest {
 
         loginPage.isInitialized();
 
-        loginPage.enterUsernameAndPassword("_jpot_", "Popolnikoncert090895");
+        loginPage.enterUsernameAndPassword("username", "password");
         loginPage.submit();
 
         if (!loginPage.loginSuccessfull()) {
